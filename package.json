@@ -1,5 +1,5 @@
 {
-  "name": "@gregoryNicol/ngrx-store-logger",
+  "name": "@gregorynicol/ngrx-store-logger",
   "version": "0.2.5",
   "description": "Advanced logging middleware for @ngrx/store",
   "main": "./dist/index.js",
